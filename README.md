@@ -28,4 +28,4 @@ Dariusz Stramski, Scripps Institution of Oceanography, CA, USA
 
 ©2019 IOCCG
 
-Addendum to the Protocol added June 2024: [https://ioccg.org/wp-content/uploads/2024/06/joint-inter-agency-request-to-manufacturers_v4.pdf](Request to manufacturers of in situ and above-water spectral imaging radiometers in the UV, VIS and NIR range)
+Addendum to the Protocol added June 2024: [Request to manufacturers of in situ and above-water spectral imaging radiometers in the UV, VIS and NIR range](https://ioccg.org/wp-content/uploads/2024/06/joint-inter-agency-request-to-manufacturers_v4.pdf)
