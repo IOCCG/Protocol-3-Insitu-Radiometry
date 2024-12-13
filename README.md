@@ -17,7 +17,7 @@ International Ocean Colour Coordinating Group (IOCCG) in collaboration with Nati
 
 IOCCG, Dartmouth, Canada
 
-Published: August 2021
+Published: December 2019
 
 ## Acknowledgements
 The authors gratefully acknowledge the assistance of the following colleagues who provided valuable comments and suggestions improving the quality of the protocols (in alphabetical order): Emmanuel Boss, Susanne Craig, Robert Foster, Philipp Grotsch, Antonio Mannino, and Dariusz Stramski. The authors also thank the Associate Editorial Peer-Reviewers for their constructive comments on this document:
